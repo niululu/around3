@@ -11,7 +11,6 @@ import (
 	"context"
 	"cloud.google.com/go/bigtable"
 	"github.com/pborman/uuid"
-	"context"
 )
 
 type Location struct {
